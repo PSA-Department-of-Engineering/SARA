@@ -1,0 +1,16 @@
+# SARA Dependencies for AI Assistant
+# Install with: pip install -r requirements.txt
+
+# Core AI Components
+ollama          # LLM Integration
+
+# Speech Processing
+vosk            # Speech-to-Text
+openwakeword    # Wake Word Detection
+piper-tts       # Text-to-Speech
+
+# Audio Handling
+pyaudio         # Microphone/Speaker I/O
+
+# External Dependencies (Non-Python)
+# - Ollama binary: Install separately from https://ollama.com/download (required for LLM models)

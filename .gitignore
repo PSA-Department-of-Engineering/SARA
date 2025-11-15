@@ -1,0 +1,9 @@
+
+# Credentials
+.docs/RaspberryInfo.md
+
+# System Images
+.snapshots/
+
+# Virtual Environments
+venv/
