@@ -1,0 +1,1 @@
+"""Port interfaces for inbound and outbound communication in the application layer."""

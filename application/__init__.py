@@ -1,0 +1,1 @@
+"""Application layer containing use cases and ports for the hexagonal architecture."""

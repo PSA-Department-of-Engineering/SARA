@@ -12,5 +12,18 @@ piper-tts       # Text-to-Speech
 # Audio Handling
 pyaudio         # Microphone/Speaker I/O
 
+# Testing
+pytest          # Unit and integration testing
+
+# Data Models
+pydantic        # Data validation and serialization
+
+# Development Tools
+structlog       # Structured logging
+mypy            # Static type checking
+ruff            # Fast Python linter and formatter
+black           # Code formatter
+
 # External Dependencies (Non-Python)
 # - Ollama binary: Install separately from https://ollama.com/download (required for LLM models)
+# - Vosk models: Already included from https://alphacephei.com/vosk/models (required for speech recognition)

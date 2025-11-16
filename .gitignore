@@ -7,3 +7,9 @@
 
 # Virtual Environments
 .venv/
+
+# Python Cache
+.pycache/
+
+# Pytest Cache
+.pytest_cache/
